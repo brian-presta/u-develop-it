@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/brian-presta/u-develop-it#readme",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "sqlite3": "^5.0.0"
   },
   "devDependencies": {
